@@ -51,5 +51,5 @@ I build UI that runs on iOS, Android, and Web without touching it twice.
 
 ## ⚡️ Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saurabhmalvia997)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230a77b6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malviys)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/malviys)
